@@ -21,3 +21,13 @@
 .items-center{
     align-items: center;
 }
+
+#i{
+    padding: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    margin: 0 3px;
+    border-radius:9px ;
+    border : 2px solid black;
+    cursor: pointer;
+}

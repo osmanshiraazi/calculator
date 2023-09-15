@@ -4,6 +4,7 @@ html,body {
 }
 
 .button{
+    width: 66px;
     padding: 20px;
     margin: 0 3px;
     border-radius:9px ;
@@ -16,6 +17,7 @@ html,body {
 }
 
 .row input{
+    width: 300px;
     font-size: 20px;
     margin: 0;
     padding: 10px 0px;
